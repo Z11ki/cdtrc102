@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { BookOpen, Award, Users, Clock, CheckCircle, ArrowRight } from 'lucide-react';
-import { Link } from 'react-router';
+import { Link } from 'react-router-dom';
 import { useState, useEffect, useRef } from 'react';
 
 export function Programs() {

@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { Shield, Users, Heart, FileCheck, ArrowRight } from 'lucide-react';
-import { Link } from 'react-router';
+import { Link } from 'react-router-dom';
 import BankOfAbyssiniaLogo from '../../banks/bank-of-abyssinia.jpg';
 import GoFundMeLogo from '../../banks/gofundme.png';
 import CBELogo from '../../banks/commercial-bank-of-ethiopia.png';

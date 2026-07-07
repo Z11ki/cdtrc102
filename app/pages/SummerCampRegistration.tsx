@@ -10,7 +10,7 @@ import {
   MapPin,
   Users
 } from 'lucide-react';
-import { Link } from 'react-router';
+import { Link } from 'react-router-dom';
 
 interface FormData {
   // Participant Information
